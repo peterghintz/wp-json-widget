@@ -1,0 +1,43 @@
+/*
+Theme Name: AngularTheme
+Author: Peter Hintz
+Description: AngularJS WP Widget
+Version: 1.0
+*/
+
+html,
+body {
+  margin:0;
+  padding:0;
+}
+.wp-module {
+  float:left;
+  clear:both;
+  max-width:500px;
+  font-family:Arial;
+  margin:20px;
+}
+ul {
+  list-style:none;
+  padding-left:0;
+}
+.loading-indicator {
+  width:32px;
+  height:32px;
+  display:block;
+  background: url(/images/ajax-loader.gif) 0 0 no-repeat;
+}
+.cycler {
+  text-align:center;
+  min-width:120px;
+  background:#000;
+  color:#fff;
+  cursor:pointer;
+  padding:5px;
+}
+.previous {
+  float:left;
+}
+.next {
+  float:right;
+}
