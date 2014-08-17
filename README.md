@@ -1,6 +1,6 @@
 A hyper-simple AngularJS theme that queries URL patterns produced by the WP JSON API widget, available here: https://wordpress.org/plugins/json-rest-api/
 
-Just install the latest version of Wordpress, create a new theme folder and git clone this puppy in there. Hoping to expand in the future/use as a sandbox for functionality.
+Just install the latest version of Wordpress, create a new theme folder and git clone this puppy in there. Then install the json-rest-api plugin into wp-content/plugins and activate it through the admin dashboard. Hoping to expand in the future/use as a sandbox for functionality. PRs welcome!
 
 NOTES: 
 
